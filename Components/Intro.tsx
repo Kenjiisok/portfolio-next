@@ -39,7 +39,7 @@ export default function Intro() {
         }}
       >
         Olá, eu sou <span className="font-bold">Eduardo Kenji</span> sou um
-        <span className="font-bold"> desenvolvedor frontend</span> com 1 ano de
+        <span className="font-bold"> desenvolvedor frontend</span> com 2 ano de
         experiência <span className="italic"> com foco em </span>
         <span className="underline">React (Next.js).</span>
       </motion.h1>
